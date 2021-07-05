@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kl.lisa.nguyen@gmail.com
+	name = Lisa Nguyen
